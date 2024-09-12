@@ -318,6 +318,23 @@ by rasti
 
 <br>
 
+### Glassmorphism
+
+by [pdanzma](https://github.com/pdanzma/kagi-css)  
+
+[**Get it**](https://github.com/pdanzma/kagi-css/blob/main/custom.css)
+
+| ![Glassmorphism](./images/doggo.png){ data-zoomable width="350px" style="display: block; margin: 0 auto" } | ![Glassmorphism](./images/search-result.png){ data-zoomable width="350px" style="display: block; margin: 0 auto"} |
+|---:|---:|
+| ![Glassmorphism](./images/mobile-startpage.png){data-zoomable width="100px" style="display: block; margin: 0 auto"} | ![Glassmorphism](./images/mobile-search-result.png){data-zoomable width="100px" style="display: block; margin: 0 auto"} |
+
+
+<br>
+
+---
+
+<br>
+
 You can collaborate on themes in the **\#appearance** channel on the [Kagi Discord](https://kagi.com/discord) server or the community-managed [subreddit](https://www.reddit.com/r/KagiUserCSS/).
 
 ## Customizations
